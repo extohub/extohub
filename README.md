@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/06e84059-e4f1-4f1b-891b-9edb3257843e)![Banner](https://tr.pinterest.com/pin/544724517445342554/)
+)
+
 <h1 align="center">Selam, Ben Extohub</h1>
 <h3 align="center">Web ve Oyun Geliştiricisi | Direniyoruz...</h3>
 
