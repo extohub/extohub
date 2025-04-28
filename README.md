@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/06e84059-e4f1-4f1b-891b-9edb3257843e)![Banner](https://tr.pinterest.com/pin/544724517445342554/)
+![Banner](https://tr.pinterest.com/pin/1042442645000459319/)
 )
 
 <h1 align="center">Selam, Ben Extohub</h1>
