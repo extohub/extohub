@@ -20,7 +20,7 @@
 ## 🕳️ Yetkinliklerim:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,unity,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,csharp,unity,git,github" />
 </div>
 
 ---
