@@ -12,15 +12,15 @@
 - 🛠️ Web geliştirme ve Unity C# oyun geliştirme işleriyle uğraşıyorum.
 - 🛡️ Teknoloji, adalet ve özgünlük benim için önemli.
 - 🩸 Sürekli öğrenerek kendi yolumu çiziyorum.
-- 📫 Yakında Web sitesi ve E-Posta ekleyeceğim.
-- 🧩 Discord üzerinden ulaşabilirsin: **(Discord Kullanıcı Adın buraya)**
+- 📫 techexto@gmail.com
+- 🧩 Discord üzerinden ulaşabilirsin: extohub
 
 ---
 
 ## 🕳️ Yetkinliklerim:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,csharp,unity,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,unity,git,github" />
 </div>
 
 ---
