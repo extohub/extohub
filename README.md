@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://your-banner-url.com/banner.png" alt="Banner" width="100%" />
+  <img src="file:///C:/Users/kayam/OneDrive/Masa%C3%BCst%C3%BC/Behzat%20%C3%87%20Foto%20Galeri/behzatc-arkaplan.jpg" alt="Banner" width="100%" />
 </p>
 
 # Metehan Kaya
