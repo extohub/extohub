@@ -1,58 +1,43 @@
-![Banner](https://github.com/extohub/extohub/blob/main/https://tr.pinterest.com/pin/1042442645000459319/)
-
-
-
-<h1 align="center">Selam, Ben Extohub</h1>
-<h3 align="center">Web ve Oyun Geliştiricisi | Direniyoruz...</h3>
-
+<!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Adalet+mi%3F+Kendimiz+Yapıyoruz...;Web+Geliştirici;Oyun+Geliştirici;Yolumu+Kendim+Çiziyorum." alt="Typing SVG" />
+  <img src="https://your-banner-url.com/banner.png" alt="Banner" width="100%" />
 </p>
 
----
+# Metehan Kaya
 
-## 🕯️ Hakkımda
-
-- 🛠️ Web geliştirme ve Unity C# oyun geliştirme işleriyle uğraşıyorum.
-- 🛡️ Teknoloji, adalet ve özgünlük benim için önemli.
-- 🩸 Sürekli öğrenerek kendi yolumu çiziyorum.
-- 📫 techexto@gmail.com
-- 🧩 Discord üzerinden ulaşabilirsin: extohub
+Full Stack Developer  
+HTML • CSS • JavaScript • Node.js • Express • MongoDB
 
 ---
 
-## 🕳️ Yetkinliklerim:
+## Hakkımda
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,csharp,unity,git,github" />
-</div>
-
----
-
-## 🕶️ GitHub İstatistikleri:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=extohub&show_icons=true&theme=dark&hide_border=true&icon_color=ff0000&title_color=ff0000" alt="Extohub GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=extohub&theme=dark&hide_border=true&fire=ff0000" alt="Extohub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=extohub&layout=compact&theme=dark&hide_border=true&title_color=ff0000" alt="Extohub Top Langs" />
-</p>
+- Nuran ve Celal Gülşen MTAL'de Bilişim Teknolojileri öğrencisiyim  
+- Web geliştirme ile ilgileniyorum  
+- Hem frontend hem backend geliştiriyorum  
 
 ---
 
-## 🦂 Yakında!
+## Teknolojiler
 
-- 🔥 Bir web portföy sitesi (kendi tarzımla)
-- 🕵️ Unity ile mobil oyunlar
-- ⚡ Açık kaynaklı projelerde karanlık bir iz bırakmak
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=extohub&label=Ziyaretçi&color=ff0000&style=flat" alt="profile views" />
-</p>
+- HTML  
+- CSS  
+- JavaScript  
+- Node.js  
+- Express  
+- MongoDB  
+- Git
 
 ---
 
-> **"Bu şehirde herkes kaybolur... Biz yine de kendi adaletimizi kurarız."** 🩸
+## İletişim
+
+- GitHub: [github.com/krabyte](https://github.com/krabyte)  
+- E-posta: metehan@example.com  
+- Discord: krabyte  
+
+---
+
+## Oyun
+
+Chrome Dino Oyunu: [https://chromedino.com](https://chromedino.com)
